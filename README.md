@@ -1,6 +1,6 @@
 # Código en C para Arduino
 
-```
+```cpp
 long valorPot = 0;
 int valorEntrada = 0;
 int estadoLed = 0;
